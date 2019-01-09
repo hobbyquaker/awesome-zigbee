@@ -1,6 +1,17 @@
-# Awesome Zigbee
+# Awesome ZigBee
 
-> Curated List of Zigbee (Light Link) related stuff
+> Curated List of ZigBee related Stuff
+
+
+### Community
+
+* [hueblog.de](https://hueblog.de)
+
+
+### Docs
+
+* [How to create a CC2530 router](https://github.com/Koenkk/zigbee2mqtt/blob/dev/docs/how_tos/how_to_create_a_cc2530_router.md)
+* [How to sniff Zigbee traffic](https://github.com/Koenkk/zigbee2mqtt/blob/dev/docs/how_tos/how_to_sniff_zigbee_traffic.md)
 
 
 ### Software
@@ -20,6 +31,7 @@
 * [Aqara (Xiaomi)](https://www.aqara.com/en/home.html)
 * [Belkin - Wemo](https://www.belkin.com/us/Products/smarthome-iot/c/wemo/)
 * [Busch-Jaeger](https://www.busch-jaeger.de/produkte/produktloesungen/fernsteuerung/zigbee-light-link/)
+* [Digi - XBEE](https://www.digi.com/xbee)
 * [Dresden Elektronik](https://shop.dresden-elektronik.de/funk-lichtsteuerung.html)
 * [Gira](https://www.gira.de/gebaeudetechnik/produkte/manuelle_lichtsteuerung/zigbee-lightlink/features.html)
 * [Heimann](http://www.heimantech.com/product/intelligentinfrareddetector.html)
@@ -31,6 +43,7 @@
 * [Neuhaus Lighing - Q-Smart-Home](https://www.paul-neuhaus.de/shop/de/produkte/technik/q-zigbee.html)
 * [Osram - Lightify](https://www.osram.de/cb/lightify/index.jsp)
 * [Paulmann](https://de.paulmann.com/innenleuchten/smart-home/zigbee/)
+* [Philips Hue](https://www2.meethue.com/de-de)
 * [Scharnberger & Hasenbein](https://www.voltus.de/hausautomation/zigbee/scharnberger-hasenbein/)
 * [Sylvania](https://consumer.sylvania.com/our-products/smart/index.jsp)
 
