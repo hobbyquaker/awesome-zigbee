@@ -26,7 +26,7 @@
 * [xbee-api](https://github.com/jankolkmeier/xbee-api)
 
 
-### Produkte, Hersteller
+### Products, Manufacturers
 
 * [Aqara (Xiaomi)](https://www.aqara.com/en/home.html)
 * [Belkin - Wemo](https://www.belkin.com/us/Products/smarthome-iot/c/wemo/)
