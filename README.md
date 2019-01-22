@@ -40,6 +40,7 @@
 * [innr](https://www.innrlighting.com/de/)
 * [Jung](https://www.jung.de/de/online-katalog/283370004/)
 * [Legrand](https://www.legrand.at/fileadmin/tx_templavoila/W16057_W16057AT_Anwendungsbeispiele_ZIGBEE_Low.pdf)
+* [Müller-Licht - tint](https://www.mueller-licht.de/produktserien/tint/)
 * [Neuhaus Lighing - Q-Smart-Home](https://www.paul-neuhaus.de/shop/de/produkte/technik/q-zigbee.html)
 * [Osram - Lightify](https://www.osram.de/cb/lightify/index.jsp)
 * [Paulmann](https://de.paulmann.com/innenleuchten/smart-home/zigbee/)
