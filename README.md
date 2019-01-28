@@ -13,6 +13,7 @@
 * [How to create a CC2530 router](https://github.com/Koenkk/zigbee2mqtt/blob/dev/docs/how_tos/how_to_create_a_cc2530_router.md)
 * [How to sniff Zigbee traffic](https://github.com/Koenkk/zigbee2mqtt/blob/dev/docs/how_tos/how_to_sniff_zigbee_traffic.md)
 * [ZigBee and WiFi Coexistence](https://www.metageek.com/training/resources/zigbee-wifi-coexistence.html)
+* [ZigBee Cluster Library Specification](http://www.zigbee.org/~zigbeeor/wp-content/uploads/2014/10/07-5123-06-zigbee-cluster-library-specification.pdf)
 
 
 ### Software
