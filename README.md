@@ -5,8 +5,8 @@
 
 ### Community
 
-* [hueblog.de](https://hueblog.de)
-
+* [hueblog.de (German)](https://hueblog.de)
+* [smartlights.de (German)](https://www.smartlights.de/)
 
 ### Docs
 
