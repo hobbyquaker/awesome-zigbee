@@ -23,6 +23,8 @@
 ### Software
 
 * [deCONZ](https://www.dresden-elektronik.de/funktechnik/products/software/pc/deconz/?L=1)
+* [ioBroker.zigbee](https://github.com/ioBroker/ioBroker.zigbee)
+* [node-red-contrib-zigbee](https://github.com/hobbyquaker/node-red-contrib-zigbee)
 * [killerbee](https://github.com/riverloopsec/killerbee)
 * [zigbee-shepherd](https://github.com/zigbeer/zigbee-shepherd)
 * [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
