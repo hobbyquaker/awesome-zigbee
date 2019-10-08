@@ -26,6 +26,7 @@
 * [ioBroker.zigbee](https://github.com/ioBroker/ioBroker.zigbee)
 * [node-red-contrib-zigbee](https://github.com/hobbyquaker/node-red-contrib-zigbee)
 * [killerbee](https://github.com/riverloopsec/killerbee)
+* [zigbee-herdsman](https://github.com/koenkk/zigbee-herdsman)
 * [zigbee-shepherd](https://github.com/zigbeer/zigbee-shepherd)
 * [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 * [zigbee4java](https://github.com/tlaukkan/zigbee4java)
@@ -33,6 +34,11 @@
 * [ZLL_Lights](https://github.com/peeveeone/ZLL_Lights)
 * [xbee-api](https://github.com/jankolkmeier/xbee-api)
 
+### DIY Hardware
+
+* [CC2530/2531/2652 Coordinator and Router Firmware](https://github.com/Koenkk/Z-Stack-firmware)
+* [CC2538 Coordinator Firmware](https://github.com/antst/CC2538-ZNP-Coordinator-firmware)
+* [CC2531 Case on Thingiverse](https://www.thingiverse.com/thing:3454066)
 
 ### Products, Manufacturers
 
